@@ -27,7 +27,7 @@ latitude
 
 Biggest, smallest and closest bar:
 
-VasiaPupkin IvanDoberman Staropramen
+VasiaPupkin, IvanDoberman, Staropramen
 
 # Project Goals
 
