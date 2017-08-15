@@ -1,6 +1,6 @@
 # Bars
 
-Check biggest, smallest and closest bar.
+Check biggest, smallest and closest bar from json file.
 
 # Requirements
 
