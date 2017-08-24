@@ -16,7 +16,6 @@ def validate_data(loaded_data, longitude, latitude):
         validate_error = 1
         print('Wrong filepath or wrong filename')
     try:
-
         latitude = float(latitude)
         longitude = float(longitude)
     except ValueError:
